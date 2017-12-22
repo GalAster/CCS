@@ -1,2 +1,1 @@
-# CCS
-Constant Cheat Sheet
+# Constant Cheat Sheet
